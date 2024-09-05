@@ -44,7 +44,8 @@
   
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" />
-  </a>https://shields.io/badges-->
+  </a>--> 
+  <!--https://shields.io/badges-->
 </div>
 
 
