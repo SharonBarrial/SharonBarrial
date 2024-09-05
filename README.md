@@ -44,11 +44,15 @@
   
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" />
-  </a>-->
+  </a>-https://shields.io/badges-->
 </div>
 
 
 <br>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SharonBarrial" />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SharonBarrial&left_color=7B68E6&right_color=8A2BE2&left_text=Visits&right_text=Count" />
+
+
+
 
 
