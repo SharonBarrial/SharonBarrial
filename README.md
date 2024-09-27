@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/SharonBarrial">
-    <img height="170em" src="https://github-readme-stat.vercel.app/api?username=SharonBarrial&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" style="display: inline-block; margin: 0 10px;">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SharonBarrial&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" style="display: inline-block; margin: 0 10px;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonBarrial&layout=compact&include_all_commits=true&langs_count=10&theme=material-palenight" style="display: inline-block; margin: 0 10px;">
   </a>
 </div>
