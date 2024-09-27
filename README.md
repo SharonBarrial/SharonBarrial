@@ -21,8 +21,15 @@
 
 <div align="center">
   <a href="https://github.com/SharonBarrial">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SharonBarrial&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" style="display: inline-block; margin: 0 10px;">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=SharonBarrial&theme=material-palenight" style="display: inline-block; margin: 0 10px;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonBarrial&layout=compact&include_all_commits=true&langs_count=10&theme=material-palenight" style="display: inline-block; margin: 0 10px;">
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=SharonBarrial&theme=darkhub">
+    <img src="https://ghchart.rshah.org/SharonBarrial" alt="Contributions Chart">-->
+    <!--<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharonBarrial&theme=material-palenight" style="display: inline-block; margin: 0 10px;"-->
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SharonBarrial&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&token=TU_TOKEN_PERSONAL" style="display: inline-block; margin: 0 10px;">
+
+
+
   </a>
 </div>
 
