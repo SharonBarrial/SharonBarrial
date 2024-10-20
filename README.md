@@ -11,7 +11,7 @@
  <br>
  
  - 🔭 I’m currently working like freelancer <br>
- - 🌱 I’m currently learning Kotlin <br>
+ - 🌱 I’m currently learning Kotlin and Flutter <br>
  - 🤔 QA tester soon...? <br>
  - 💬 Ask me about my freelancing experience, software development projects, or my favorite movies with a great plot twist! 
  - ⚡ I love read anytime, anywhere. Do you know manwhas?
