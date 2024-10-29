@@ -10,7 +10,7 @@
  <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 Majoring UI/UX 🫧</p>
  <br>
  
- - 🔭 I’m currently working as freelancer <br>
+ - 🔭 I’m currently working as a freelancer <br>
  - 🌱 I’m currently learning Kotlin and Flutter <br>
  - 🤔 QA tester soon...? <br>
  - 💬 Ask me about my freelancing experience, software development projects, or my favorite movies with a great plot twist! 
