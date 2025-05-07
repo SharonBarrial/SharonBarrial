@@ -7,7 +7,7 @@
 </p>
 
 
- <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 UI/UX Designer 🫧 Software Developer 🫧</p>
+ <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 UI/UX Designer 🫧 Software Developer 🫧 QA Tester 🫧</p>
  <br>
  
  - 🔭 I’m a freelance software developer, currently open to contract roles where I can grow and contribute to a great team. <br>
