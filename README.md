@@ -7,7 +7,7 @@
 </p>
 
 
- <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 UI/UX Designer 🫧 Software Developer </p>
+ <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 UI/UX Designer 🫧 Software Developer 🫧</p>
  <br>
  
  - 🔭 I’m working as a freelancer <br>
