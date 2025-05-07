@@ -12,7 +12,7 @@
  
  - 🔭 I’m working as a freelancer <br>
  - 🌱 I’m currently learning Kotlin and Flutter <br>
- - 🤔 QA tester soon...? <br>
+ - 🤔 QA tester soon! <br>
  - 💬 Ask me about my freelancing experience, software development projects, or favorite movies with a great plot twist! 
  - ⚡ I love to read anytime, anywhere. Do you know manwhas?
 <br>
