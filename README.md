@@ -10,11 +10,11 @@
  <p align="center"> 🫧 She/her 🫧 Full-Stack Developer 🫧 UI/UX Designer 🫧 Software Developer 🫧 QA Tester 🫧</p>
  <br>
  
- - 🔭 I’m a freelance software developer, currently open to contract roles where I can grow and contribute to a great team. <br>
- - 🌱 I’m currently learning Machine Learning, and I'm especially interested in real-world projects that use data in smart ways. <br>
- - 🤔 I’m always thinking about how technology can solve real-life problems creatively. <br>
- - 💬 Ask me about my freelancing experience, software development projects, or favorite movies with a great plot twist! 
- - ⚡ I love to read anytime, anywhere. Do you know manwhas? Well... I could introduce you-
+ - 🔭 Freelance engineer open to contract roles—ready to grow and contribute. <br>
+ - 🌱 Learning Machine Learning, especially real-world data applications. <br>
+ - 🤔 Passionate about solving problems with creative tech. <br>
+ - 💬 Ask me about freelancing, dev projects, or plot-twist movies!
+ - ⚡ Bookworm & manwha fan—want a recommendation?
 <br>
 
 
